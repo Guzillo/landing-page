@@ -145,3 +145,29 @@ ul {
 }
 
 /* *cta section*/
+.cta-section {
+   padding: 100px 450px;
+}
+
+.cta-banner {
+    background-color: #3882F6;
+    padding: 40px 80px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cta-title {
+    color:white;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.cta-subtitle {
+    color: white;
+    font-size: 18px;
+    font-weight: 300;
+}
+.cta-section .signup-button {
+    border: white 2px solid;
+}

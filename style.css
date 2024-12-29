@@ -14,7 +14,7 @@ ul {
 
 .header-section {
     background-color: #1F2937;
-    padding: 10px 450px;
+    padding: 10px 20%
 }
 
 .navbar {
@@ -89,7 +89,7 @@ ul {
 /* *info section */
 
 .info-section {
-    padding: 0 550px 100px 550px;
+    padding: 0 25% 100px 25%;
 }
 .info-title {
     font-size: 36px;
@@ -105,6 +105,7 @@ ul {
     display: flex;
     list-style-type: none;
     gap: 30px;
+    justify-content: center;
 }
 
 .info-image {
@@ -130,7 +131,7 @@ ul {
 
 .quote-section {
     background-color: #E5E7Eb;
-    padding: 100px 550px;
+    padding: 100px 30%;
 }
 
 .quote-content {
@@ -148,7 +149,7 @@ ul {
 
 /* *cta section*/
 .cta-section {
-   padding: 100px 450px;
+   padding: 100px 20%;
 }
 
 .cta-banner {

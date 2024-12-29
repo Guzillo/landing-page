@@ -78,4 +78,42 @@ body {
     font-weight: bold;
 }
 /* info section */
+.info-section {
+    padding: 50px 300px;
+}
+.info-title {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.info-items {
+    display: flex;
+    list-style-type: none;
+    gap: 30px;
+    justify-content: center;
+}
+
+.info-image {
+    height: 160px;
+    width: 160px;
+    border: 0.2em solid #3882F6;
+    border-radius: 15px;
+}
+
+.info-image > img {
+    height: 160px;
+    width: 160px;
+    border-radius: 10px;
+}
+
+.info-image-subtext {
+    margin: 15px 0 0 0;
+    color: slategrey;
+}
+
+
 
